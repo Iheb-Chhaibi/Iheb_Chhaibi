@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔌 **Telecommunication Engineer** | 🧠 **AI & IoT Enthusiast** | 🌐 **Full-Stack Developer**  
-
+🔌 Telecommunication Engineer | 🤖 AI & IoT Developer | 🌐 Open-Source Contributor
 👋 Hi there! I’m a **Telecommunication Engineer** (B.Sc. 2022) passionate about merging hardware and software to create **smart, interconnected systems**. My work spans IoT, embedded tech, and AI-driven solutions, with a relentless focus on **innovation** and **real-world impact**.  
 
 ## 🛠️ What I Do:
