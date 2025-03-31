@@ -70,4 +70,4 @@ I’m eager to partner on projects at the intersection of **IoT**, **AI**, and *
 
 [![](https://visitcount.itsvg.in/api?id=Iheb-Chhaibi&label=Profile%20Views&color=6)](https://visitcount.itsvg.in)
 
-*Built with 🖤 and [GPRM](https://gprm.itsvg.in)*
+
